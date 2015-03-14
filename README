@@ -1,0 +1,2 @@
+# Install
+`gem install sinatra sinatra-contrib sqlite3`
